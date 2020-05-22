@@ -1,0 +1,16 @@
+body{
+    background-color: lightsalmon;
+
+}
+h1 {
+    color: limegreen; /* color h1 verde lima */
+}
+h2 {
+    color: red; /* color h2 rojo */
+}
+h3 {
+    color: yellow; /* color h3 amarillo */
+}
+h4 {
+    color: purple; /* color h4 morado */
+}
